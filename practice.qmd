@@ -24,3 +24,9 @@ And do something with it:
 ```{python}
 star_wars_df.plot()
 ```
+
+
+```{python}
+STARS = star_wars_df
+```
+
