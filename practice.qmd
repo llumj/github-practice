@@ -24,3 +24,5 @@ And do something with it:
 ```{python}
 star_wars_df.plot()
 ```
+
+This is Carmen's comment!
