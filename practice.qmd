@@ -22,9 +22,15 @@ star_wars_df
 And do something with it:
 
 ```{python}
-# Your code goes here
+star_wars_df.plot()
 ```
 
 ```{python}
 star_wars_df['name'].unique()
 ```
+
+
+
+This is Carmen's comment!
+
+
